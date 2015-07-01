@@ -1,0 +1,24 @@
+{
+  "uuid": "b86e3621-858b-4380-b44a-b2d08ab28237",
+  "shortName": "watch.py",
+  "longName": "Python Watch",
+  "companyName": "Scott Umsted",
+  "versionLabel": "1.0",
+  "sdkVersion": "3",
+  "targetPlatforms": ["aplite", "basalt"],
+  "watchapp": {
+    "watchface": true
+  },
+  "appKeys": {
+    "dummy": 0
+  },
+  "resources": {
+    "media": [
+        {
+            "type": "png",
+            "name": "IMAGE_BACKGROUND",
+            "file": "images/pyback.png"
+        }
+    ]
+  }
+}
